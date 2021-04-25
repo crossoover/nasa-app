@@ -1,0 +1,2 @@
+input[type=checkbox]{height:0;width:0;visibility:hidden}input:checked+label{background:grey}input:checked+label:after{left:calc(100% - 5px);-webkit-transform:translateX(-100%);transform:translateX(-100%)}
+/*# sourceMappingURL=main.106a04c0.chunk.css.map */
